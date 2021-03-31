@@ -25,7 +25,7 @@
         <druid.version>1.1.17</druid.version>
         <fastjson.version>1.2.49</fastjson.version>
         <flycoding.version>1.0.0</flycoding.version>
-        <guava.version>27.0.1-jre </guava.version>
+        <guava.version>29.0-jre</guava.version>
         <jjwt.version>0.10.5</jjwt.version>
         <jedis.version>2.9.0</jedis.version>
         <lombok.version>1.18.4</lombok.version>
